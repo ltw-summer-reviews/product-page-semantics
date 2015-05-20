@@ -53,7 +53,7 @@ Really consider the appropriate tags independent of how they look in the browser
 
 ---
 
-## License & copyright
+## Licenses & copyright
 
 - [Compact Fluorescent Lightbulb](https://www.flickr.com/photos/chealion/3293922425/) by Micheal J, used under CC-BY-NC.<br>Modifications: cropped, colour adjustments.
 - [Light The Path](https://www.flickr.com/photos/ivanclow/4260762246//) by IvanClow, used under CC-BY-NC.<br>Modifications: cropped, background erased.
