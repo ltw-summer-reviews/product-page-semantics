@@ -50,3 +50,11 @@ Really consider the appropriate tags independent of how they look in the browser
 
 1. Ask someone else from class if they’re available.
 2. Create an issue on GitHub Issues inside your repository; tag me, `@thomasjbradley`, in the issue and I’ll respond there. *I may not be as fast, because it’s the summer, but I’ll definitely respond.*
+
+---
+
+## License & copyright
+
+- † [Compact Fluorescent Lightbulb](https://www.flickr.com/photos/chealion/3293922425/) by Micheal J, used under CC-BY-NC. Modifications: cropped, colour adjustments.
+- † [Light The Path](https://www.flickr.com/photos/ivanclow/4260762246//) by IvanClow, used under CC-BY-NC. Modifications: cropped, background erased.
+- † [Vintage lightbulb](https://www.flickr.com/photos/ejoui15/11692892174/) by ed ouimette, used under CC-BY-NC-SA. Modifications: cropped, rotated, reflection erased.
