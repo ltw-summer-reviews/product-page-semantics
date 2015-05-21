@@ -53,7 +53,14 @@ Really consider the appropriate tags independent of how they look in the browser
 
 ---
 
-## Licenses & copyright
+## Licenses & copyrights
+
+© Algonquin College Graphic Design — <http://algonquindesign.ca/>.<br>
+All *code* licensed under the [MIT license](https://github.com/acgd-summer-reviews/email-newsletters/blob/gh-pages/LICENSE).<br>
+All *text, imagery, design, tutorials & videos* licensed under the [CC BY-NC-SA License](http://creativecommons.org/licenses/by-nc-sa/4.0/).<br>
+Unless otherwise noted.
+
+**Assets used**
 
 - [Compact Fluorescent Lightbulb](https://www.flickr.com/photos/chealion/3293922425/) by Micheal J, used under CC-BY-NC.<br>Modifications: cropped, colour adjustments.
 - [Light The Path](https://www.flickr.com/photos/ivanclow/4260762246//) by IvanClow, used under CC-BY-NC.<br>Modifications: cropped, background erased.
