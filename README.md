@@ -51,8 +51,6 @@ Really consider the appropriate tags independent of how they look in the browser
 1. Ask someone else from class if they’re available.
 2. Create an issue on GitHub Issues inside your repository; tag me, `@thomasjbradley`, in the issue and I’ll respond there. *I may not be as fast, because it’s the summer, but I’ll definitely respond.*
 
-<br>
----
 ---
 
 ## Licenses & copyrights
