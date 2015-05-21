@@ -55,10 +55,7 @@ Really consider the appropriate tags independent of how they look in the browser
 
 ## Licenses & copyrights
 
-© Algonquin College Graphic Design — <http://algonquindesign.ca/>.<br>
-All *code* licensed under the [MIT license](https://github.com/acgd-summer-reviews/email-newsletters/blob/gh-pages/LICENSE).<br>
-All *text, imagery, design, tutorials & videos* licensed under the [CC BY-NC-SA License](http://creativecommons.org/licenses/by-nc-sa/4.0/).<br>
-Unless otherwise noted.
+**[☛ Refer the the license & copyright statement](https://github.com/acgd-summer-reviews/meta#license--copyright-statement)**
 
 **Assets used:**
 
