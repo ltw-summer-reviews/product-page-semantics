@@ -19,17 +19,6 @@ Really consider the appropriate tags independent of how they look in the browser
 
 ---
 
-## Relevant tutorials & tools
-
-- [Hosting with GitHub Pages](http://learn-the-web.algonquindesign.ca/topics/github-pages/)
-- [HTML semantics](http://learn-the-web.algonquindesign.ca/topics/html-semantics/)
-- [HTML indentation](http://learn-the-web.algonquindesign.ca/topics/html-indentation/)
-- [**HTML semantics cheat sheet**](http://learn-the-web.algonquindesign.ca/topics/html-semantics-cheat-sheet/)
-- [**HTML semantics checklist**](http://learn-the-web.algonquindesign.ca/topics/html-semantics-checklist/)
-- [Validators](http://learn-the-web.algonquindesign.ca/topics/validators/)
-
----
-
 ## Checklist
 
 - ❏ Every piece of text is wrapped in an appropriate HTML element.
@@ -43,6 +32,17 @@ Really consider the appropriate tags independent of how they look in the browser
 - ❏ Files & folders follow naming conventions.
 - ❏ Code files properly indented.
 - ❏ Set up as a hosted GitHub repository with `gh-pages`.
+
+---
+
+## Relevant tutorials & tools
+
+- [Hosting with GitHub Pages](http://learn-the-web.algonquindesign.ca/topics/github-pages/)
+- [HTML semantics](http://learn-the-web.algonquindesign.ca/topics/html-semantics/)
+- [HTML indentation](http://learn-the-web.algonquindesign.ca/topics/html-indentation/)
+- [**HTML semantics cheat sheet**](http://learn-the-web.algonquindesign.ca/topics/html-semantics-cheat-sheet/)
+- [**HTML semantics checklist**](http://learn-the-web.algonquindesign.ca/topics/html-semantics-checklist/)
+- [Validators](http://learn-the-web.algonquindesign.ca/topics/validators/)
 
 ---
 
