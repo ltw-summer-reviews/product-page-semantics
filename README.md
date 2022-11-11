@@ -2,7 +2,7 @@
 
 A summer review project to practice HTML semantics & indentation.
 
-#### [⬇ Download the content](https://github.com/acgd-summer-reviews/product-page-semantics/archive/master.zip)
+#### [⬇ Download the content](https://github.com/ltw-summer-reviews/product-page-semantics/archive/master.zip)
 
 ---
 
@@ -37,12 +37,12 @@ Really consider the appropriate tags independent of how they look in the browser
 
 ## Relevant tutorials & tools
 
-- [Hosting with GitHub Pages](http://learn-the-web.algonquindesign.ca/topics/github-pages/)
-- [HTML semantics](http://learn-the-web.algonquindesign.ca/topics/html-semantics/)
-- [HTML indentation](http://learn-the-web.algonquindesign.ca/topics/html-indentation/)
-- [**HTML semantics cheat sheet**](http://learn-the-web.algonquindesign.ca/topics/html-semantics-cheat-sheet/)
-- [**HTML semantics checklist**](http://learn-the-web.algonquindesign.ca/topics/html-semantics-checklist/)
-- [Validators](http://learn-the-web.algonquindesign.ca/topics/validators/)
+- [Hosting with GitHub Pages](https://learntheweb.coures/topics/github-pages/)
+- [HTML semantics](https://learntheweb.coures/topics/html-semantics/)
+- [HTML indentation](https://learntheweb.coures/topics/html-indentation/)
+- [**HTML semantics cheat sheet**](https://learntheweb.coures/topics/html-semantics-cheat-sheet/)
+- [**HTML semantics checklist**](https://learntheweb.coures/topics/html-semantics-checklist/)
+- [Validators](https://learntheweb.coures/topics/validators/)
 
 ---
 
@@ -55,7 +55,7 @@ Really consider the appropriate tags independent of how they look in the browser
 
 ## Licenses & copyrights
 
-**[☛ Refer the the license & copyright statement](https://github.com/acgd-summer-reviews/meta#license--copyright-statement)**
+**[☛ Refer the the license & copyright statement](https://github.com/ltw-summer-reviews/meta#license--copyright-statement)**
 
 **Assets used:**
 
